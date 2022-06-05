@@ -29,10 +29,10 @@ include_once("connection.php");
 <nav class="navbar navbar-expand-sm bg-dark">
         <ul class="nav ">
                 <li class="nav-item">
-                    <a href="index.php" class="nav-link" href="#">Home</a>
+                    <a href="index.php" class="nav-link" href="#">Rumah</a>
                 </li>
                 <li class="nav-item">
-                    <a href="add.php" class="nav-link" href="#">Add</a>
+                    <a href="add.php" class="nav-link" href="#">Tambah</a>
                 </li>
             </ul>
     </nav>
