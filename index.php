@@ -43,7 +43,7 @@
             <div class="card">
                 <div class="card-body table-responsive">
                     
-                   <h1>PHP Todo LIst<span class="float-right"><a class="btn btn-primary" href="add.php">Add Task</a></span></h1>  
+                   <h1>PHP Todo LIst<span class="float-right"><a class="btn btn-primary" href="add.php">Tambah Task</a></span></h1>  
                    <hr>
     <table class="table table-striped">
         <thead>
