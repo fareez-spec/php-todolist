@@ -32,6 +32,9 @@
                 <li class="nav-item">
                     <a href="add.php" class="nav-link" href="#">Add</a>
                 </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" href="#">Contact</a>
+                </li>
             </ul>
     </nav>
     <div class="container mt-5">
